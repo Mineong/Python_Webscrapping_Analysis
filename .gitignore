@@ -3,5 +3,8 @@
 data/.ipynb_checkpoints/
 img/
 img.html
-*.jpg
+# jpg,jpeg,png,env 올리지마라
+*.jpg 
+*.jpeg
+*.png 
 .env
